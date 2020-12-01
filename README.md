@@ -1,5 +1,7 @@
 # Paper Notes
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 This repo contains **links** to my notes for the papers that I read during my research time.
 
 ## Notion Links
