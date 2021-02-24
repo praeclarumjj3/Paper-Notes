@@ -10,6 +10,8 @@ This repo contains **links** to my notes for the papers that I read during my re
 
 - [RealTime Segmentation](https://www.notion.so/RealTime-Segmentation-d79ced2e0f4b4659aeff477692ddf2f8)
 
+- [Self Supervised Learning](https://www.notion.so/SSL-Paper-Notes-f086693cdfe84c2f80a3674021a84a93)
+
 ## Contribution Guidelines
 
 Feel free to open a PR with notes of your own!
